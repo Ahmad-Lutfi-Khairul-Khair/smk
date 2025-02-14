@@ -1,1 +1,1 @@
-<h2>Saya Dari Halaman Baru</h2>
+<h2>SAYA DARI HALAMAN BARU</h2>
